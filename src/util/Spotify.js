@@ -1,5 +1,5 @@
 const clientId = '7af02fb7797146369894aee10dfa0b8b'; // Insert client ID here.
-const redirectUri = 'https://Zw.surge.sh/auth/callback'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
+const redirectUri = 'https://zw-34ol.onrender.com/auth/callback'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
 const Spotify = {
